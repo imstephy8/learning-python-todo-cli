@@ -1,19 +1,27 @@
-# Learning Python Todo CLI
+# Python To-Do CLI
 
-This repository is a beginner Python to-do app project that I am using for learning and practice.
+A simple Python to-do list project.
 
-## About
-I created this project to build a stronger foundation in Python by working through a simple and practical program step by step.
+## Contribution
 
-## Goals
-- practice Python basics
-- understand beginner project structure
-- improve problem-solving skills
-- learn how to read and write Python code more confidently
-- build small projects on GitHub
+For this version of the project, I did not modify the original logic or functionality of the code.  
+Instead, I added comments throughout the file to explain what each line does.
 
-## Project Status
-This project is currently in progress.
+My goal was to practice reading Python code, improve my understanding of Python syntax and structure, and create a more beginner-friendly version of the file for learning purposes.
 
-## Notes
-I may update, change, and improve this project as I continue learning.
+## Original Source
+
+The original project was created by the original author and can be found here:  
+[Original Repository](https://github.com/Dheeraj-kannekanti/todo-app)
+
+## Changes Made
+
+- Added line-by-line comments
+- Kept the original functionality unchanged
+- Focused on understanding and explaining the code
+
+## Disclaimer
+
+This repository is based on the original project linked above.  
+I did not change the program’s behavior.  
+My contribution was adding comments to explain what each line of code does.
